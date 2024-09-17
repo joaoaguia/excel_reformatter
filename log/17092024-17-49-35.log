@@ -1,0 +1,78 @@
+Log iniciado em: e:\Particulares\Joao\Estudos\Programacao\GIT\excel_reformatter\log\17092024-17-49-35.log
+Total de linhas no DataFrame Edenred: 17
+Total de linhas no DataFrame ActivoBank: 6
+Total de movimentos encontrados: 10
+
+Detalhes de todos os movimentos:
+
+Movimento 1:
+Data: 28/08/2024
+Descrição: Transferência Bancária
+Valor: 163.20
+Nome: VR João
+Categoria: Alimentação
+
+Movimento 2:
+Data: 09/09/2024
+Descrição: LIDL AGRADECE TAPADA DAS MERCES
+Valor: -12.80
+Nome: VR João
+Categoria: Alimentação
+
+Movimento 3:
+Data: 10/09/2024
+Descrição: CONTINENTE MERC S 0000-000 T MERCES
+Valor: -7.57
+Nome: VR João
+Categoria: Alimentação
+
+Movimento 4:
+Data: 10/09/2024
+Descrição: LIDL AGRADECE TAPADA DAS MERCES
+Valor: -142.83
+Nome: VR João
+Categoria: Alimentação
+
+Movimento 5:
+Data: 10/09/2024
+Descrição: 7124 APPLE.COM BILL ITUNES.COM IE
+Valor: -2.99
+Nome: Conjunta
+Categoria: 
+
+Movimento 6:
+Data: 11/09/2024
+Descrição: 4431 BNP PARIBAS LISBOA CONTACTLESS
+Valor: -1.10
+Nome: Conjunta
+Categoria: 
+
+Movimento 7:
+Data: 11/09/2024
+Descrição: 4431 CP MERCES 2725-555-SINT CONTACTLESS
+Valor: -5.50
+Nome: Conjunta
+Categoria: 
+
+Movimento 8:
+Data: 11/09/2024
+Descrição: 7124 CONTINENTE MERC S 0000- CONTACTLESS
+Valor: -10.12
+Nome: Conjunta
+Categoria: 
+
+Movimento 9:
+Data: 12/09/2024
+Descrição: Transferencia TransferWise:T1217337713
+Valor: -33.30
+Nome: Conjunta
+Categoria: 
+
+Movimento 10:
+Data: 13/09/2024
+Descrição: 4431 2647 TEDI RIO MOURO RIO CONTACTLESS
+Valor: -17.75
+Nome: Conjunta
+Categoria: 
+
+Dados salvos em e:\Particulares\Joao\Estudos\Programacao\GIT\excel_reformatter\final_output.xlsx
